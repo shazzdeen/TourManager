@@ -1,0 +1,31 @@
+{
+  "name": "tourmanager",
+  "version": "1.0.0",
+  "description": "App for Ugandan tourists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shazzdeen/TourManager.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Zziwa, Emmy, Henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shazzdeen/TourManager/issues"
+  },
+  "homepage": "https://github.com/shazzdeen/TourManager#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fwsp-hydra-express": "^1.0.0",
+    "hydra-cli": "^1.6.0",
+    "hydra-express": "^1.7.0",
+    "lodash": "^4.17.11",
+    "node-couchdb": "^1.3.0"
+  }
+}
